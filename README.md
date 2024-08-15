@@ -27,20 +27,17 @@ npm install
 
 npm start
 
-The app will run in development mode. Open http://localhost:3000 to view it in your browser.
+3. Open your browser and navigate to http://localhost:3000 to play the game.
 
-## Reset Button Confirmation
+Learn More
+You can learn more in the Create React App documentation.
 
-**When the Reset button is clicked, a confirmation popup will appear, asking for confirmation before resetting the game.**
-**Clicking OK will proceed with resetting the game board.**
-**Clicking Cancel will close the popup without resetting the game.**
-**This ensures that the game is not accidentally reset, preserving the current board state until the user confirms the action.**
+To learn React, check out the React documentation.
 
-## Future Enhancements
-
-**AI Opponent: Add a feature to play against the computer.**
-**Score Tracking: Implement a score tracking system to keep track of wins, losses, and draws.**
-
-# Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any feature additions, bug fixes, or optimizations.
+Additional Documentation
+*Code Splitting: Code Splitting
+*Analyzing the Bundle Size: Analyzing the Bundle Size
+*Making a Progressive Web App: Making a Progressive Web App
+*Advanced Configuration: Advanced Configuration
+*Deployment: Deployment
+`npm run build` fails to minify: Troubleshooting
