@@ -19,14 +19,14 @@ This project is a simple implementation of the classic Tic Tac Toe game using Re
    cd tic-tac-toe-react
    ```
 
-### 1. Install Dependencies:
-
+2. **Install Dependencies**:
+```bash
 npm install
-
-### 2. Start the Development Server:
-
+ ```
+3. **Start the Development Server**:
+```bash
 npm start
-
+ ```
 The app will run in development mode. Open http://localhost:3000 to view it in your browser.
 
 ## Reset Button Confirmation
