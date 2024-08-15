@@ -68,3 +68,6 @@ Additional Documentation
 *Advanced Configuration: Advanced Configuration
 *Deployment: Deployment
 `npm run build` fails to minify: Troubleshooting
+
+Future Improvements:
+Implement AI for a single-player mode.
