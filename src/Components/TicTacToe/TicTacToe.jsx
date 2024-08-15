@@ -57,10 +57,13 @@ const TicTacToe = () => {
   };
 
   const reset = () => {
-    setBoard(Array(9).fill(""));
-    setIsXTurn(Math.random() < 0.5);
-    setLock(false);
-    titleRef.current.innerHTML = `Tic Tac Toe In <span>React</span>`;
+    const userConfirmed = window.confirm("Are you sure you want to reset the game?");
+    if (userConfirmed) {
+      setBoard(Array(9).fill(""));
+      setIsXTurn(Math.random() < 0.5);
+      setLock(false);
+      titleRef.current.innerHTML = `Tic Tac Toe In <span>React</span>`;
+    }
   };
 
   return (
