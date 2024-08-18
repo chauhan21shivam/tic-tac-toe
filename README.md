@@ -1,6 +1,7 @@
 # Tic Tac Toe in React
 
 This project is a simple implementation of the classic Tic Tac Toe game using React.
+[Check Out the Live Version](https://shivam-plays-tictactoe.netlify.app)
 
 ## Features
 
