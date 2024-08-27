@@ -16,7 +16,7 @@ This project is a simple implementation of the classic Tic Tac Toe game using Re
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-react.git
+   git clone https://github.com/Shivamchauhan21/tic-tac-toe-react.git
    cd tic-tac-toe-react
    ```
 
