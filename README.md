@@ -47,4 +47,4 @@ The app will run in development mode. Open http://localhost:3000 to view it in y
 Contributions are welcome! Please fork this repository and submit a pull request for any feature additions, bug fixes, or optimizations.
 
 ## Author
-**Your Name - [Shivam Chauhan](https://www.linkedin.com/in/chauhan21shivam)**
+**[Shivam Chauhan](https://www.linkedin.com/in/chauhan21shivam)**
